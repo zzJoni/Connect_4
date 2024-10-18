@@ -1,6 +1,6 @@
 This git repository is written in c++20 and runs a connect 4 game in terminal using the standard input and output streams
 
-This is what each of the files included in the project are used for
+This is what each of the files included in the project are used for:
 
     -> Connect4Board.h & Connect4Board.cpp: Class used to store a connect 4 board
     
